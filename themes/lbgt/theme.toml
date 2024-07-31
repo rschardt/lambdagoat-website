@@ -1,10 +1,10 @@
 name = 'lbgt'
 license = 'MIT'
-licenselink = 'https://github.com/rschardt/lambdagoat-website/themes/lbgt/LICENSE'
+licenselink = 'https://github.com/rschardt/lambdagoat-website/blob/main/themes/lbgt/LICENSE'
 description = 'Lambda Goat Theme'
 
 # The home page of the theme, where the source can be found
-homepage = 'https://github.com/rschardt/lambdagoat-website/themes/lbgt
+homepage = 'https://github.com/rschardt/lambdagoat-website/tree/main/themes/lbgt'
 
 # If you have a running demo of the theme
 demosite = 'https://lambdagoat.com'
