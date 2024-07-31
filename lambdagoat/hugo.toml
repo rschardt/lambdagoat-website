@@ -1,0 +1,4 @@
+baseURL = 'https://lambdagoat.com/'
+languageCode = 'en-us'
+title = 'Lambda Goat'
+theme = 'lbgt'
