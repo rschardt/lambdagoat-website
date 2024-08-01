@@ -26,7 +26,7 @@
         type = "app";
         program = let
           runHugoProdServer = pkgs.writeShellScriptBin "runHugoProdServer" ''
-            "${pkgs.hugo}/bin/hugo" server -DEF --disableLiveReload --watch=false
+            "${pkgs.hugo}/bin/hugo" server --disableLiveReload --watch=false
           '';
         in
           "${runHugoProdServer}/bin/runHugoProdServer";

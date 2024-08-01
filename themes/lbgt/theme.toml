@@ -10,8 +10,8 @@ homepage = 'https://github.com/rschardt/lambdagoat-website/tree/main/themes/lbgt
 demosite = 'https://lambdagoat.com'
 
 # Taxonomy terms
-tags = ['blog', 'company']
-features = ['some', 'awesome', 'features']
+tags = ['blog']
+features = ['simple', 'nojs', 'sass', 'privacy', 'integrity']
 
 [author]
   name = 'Robert Schardt'
