@@ -5,10 +5,9 @@ draft = false
 +++
 This is the home of the Lambda Goat and it has been live since mid 2024.
 
-
 I decided to start this simple site to provide my insight to society and to slowly build my reputation as a source for best practices.
 
-Over the last 10 years I collected knowledge and experience as an IT professional switching between programming(mainly backend) and DevOps.
+Over the last 10 years I collected knowledge and experience as an IT professional switching between programming (mainly backend) and DevOps.
 
 I am really fascinated by the functional paradigm and metaprogramming.
 
@@ -21,7 +20,7 @@ But for now I would invest it into Clojure because it has a certain balance of a
 There is a convoluted list of topics I want to learn more but also write about.
 
 The list goes:
-- DevOps(Selfhosted & Cloud) with NixOS/Nix
+- DevOps (Selfhosted & Cloud) with NixOS/Nix
 - functional & metaprogramming Programming
 - Security
 - Game Development
