@@ -1,8 +1,5 @@
+{{ $image := resources.Get "images/lambdagoat_small.svg" }}
 <div class="headline">
-  <h1 class="header-bar">
-    <span class="flag-left"> λ </span>
-    <span class="headline-text">{{ site.Title }}</span>
-    <span class="flag-right">&#128016;</span>
-  </h1>
+    <img class="flag" src="{{ $image.RelPermalink }}" width="128" height="128">
 </div>
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}

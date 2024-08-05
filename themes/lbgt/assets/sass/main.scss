@@ -1,9 +1,4 @@
 %general {
-  border-left: 5px double black;
-  border-top: 5px solid black;
-  border-right: 5px double black;
-  border-bottom: 5px solid black;
-  border-radius: 5px;
   padding: 2px 2px;
 }
 
@@ -15,12 +10,13 @@ body {
 }
 
 .headline {
-  @extend %general;
-  padding: 0px;
+  padding-top: 15px;
 }
 
 nav ul {
   @extend %general;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
   list-style: none;
   padding: 5px 5px;
 
@@ -52,6 +48,7 @@ li {
 
 footer {
   @extend %general;
+  border-top: 5px solid black;
   font-size: .8em;
   text-align: center;
 }
