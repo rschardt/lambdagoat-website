@@ -2,6 +2,9 @@
 title = 'Home'
 date = 2024-07-31T08:00:00-07:00
 draft = false
+[sitemap]
+changefreq = 'monthly'
+priority = 0.5
 +++
 This is the home of the Lambda Goat and it has been live since mid 2024.
 

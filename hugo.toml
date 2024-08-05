@@ -3,6 +3,15 @@ languageCode = 'en-us'
 title = 'Lambda Goat'
 theme = 'lbgt'
 
+[taxonomies]
+  tag = 'tags'
+
+[outputs]
+  home = ['html']
+  posts = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
+
 [privacy]
   [privacy.disqus]
     disable = true
